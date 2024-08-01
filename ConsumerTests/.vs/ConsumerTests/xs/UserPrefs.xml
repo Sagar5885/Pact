@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{7601D1A4-7A91-4A97-BBCA-01750CFC3582}|Default">
+  <MonoDevelop.Ide.ItemProperties.ConsumerTests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WeatherApiConsumerPact.cs">
+    <Files>
+      <File FileName="WeatherApiConsumerPact.cs" Line="12" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConsumerTests" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{A7AB2D9B-1FEA-4758-9D06-A54E8F1CF027}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WeatherApiProviderPact.cs">
+    <Files>
+      <File FileName="WeatherApiProviderPact.cs" Line="27" Column="55" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProviderVerificationTests" expanded="True">
+            <Node name="ProviderVerificationTests">
+              <Node name="WeatherApiProviderPact.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ProviderVerificationTests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
